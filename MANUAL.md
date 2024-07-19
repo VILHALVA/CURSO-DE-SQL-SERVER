@@ -61,7 +61,7 @@
    - Na tela "Set Scripting Options", você pode escolher salvar o script em um arquivo, copiar para a área de transferência, ou abrir no editor de consultas do SSMS.
    - Para salvar em um arquivo, selecione "Save to file" e escolha o local e o nome do arquivo.
 
-8. **Configurar Opções Avançadas**:
+8. [**Configurar Opções Avançadas**:](https://youtu.be/SW42zxfyKAY?si=BUkKb1149a3GAV-z)
    - Clique em "Advanced" para abrir a janela de opções avançadas.
    - Aqui, você precisa ajustar a configuração para incluir tanto o esquema quanto os dados:
      - **Types of data to script**: Selecione "Schema and Data" para incluir tanto a estrutura quanto os dados das tabelas.
